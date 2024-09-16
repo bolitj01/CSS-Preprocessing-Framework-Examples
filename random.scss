@@ -1,8 +1,6 @@
 @use "sass:list";
-// $colors: ();
 
 @for $i from 1 through 100 {
-    // $colors: append($colors, $color);
     .div-#{$i}{
         background-color: rgb(random(255), random(255), random(255));
         min-width: 50vw;

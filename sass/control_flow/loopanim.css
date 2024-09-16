@@ -93,30 +93,30 @@
 
 .speed1 {
   animation: sweep1 0.5s infinite alternate forwards;
-  background-color: rgb(204, 53, 192);
+  background-color: rgb(179, 149, 145);
   animation-timing-function: linear;
 }
 
 .speed2 {
   animation: sweep2 0.5s infinite alternate forwards;
-  background-color: rgb(254, 95, 94);
+  background-color: rgb(160, 151, 32);
   animation-timing-function: linear;
 }
 
 .speed3 {
   animation: sweep3 0.5s infinite alternate forwards;
-  background-color: rgb(100, 226, 120);
+  background-color: rgb(105, 89, 181);
   animation-timing-function: linear;
 }
 
 .speed4 {
   animation: sweep4 0.5s infinite alternate forwards;
-  background-color: rgb(181, 138, 8);
+  background-color: rgb(239, 65, 131);
   animation-timing-function: linear;
 }
 
 .speed5 {
   animation: sweep5 0.5s infinite alternate forwards;
-  background-color: rgb(217, 167, 49);
+  background-color: rgb(178, 166, 68);
   animation-timing-function: linear;
 }/*# sourceMappingURL=loopanim.css.map */

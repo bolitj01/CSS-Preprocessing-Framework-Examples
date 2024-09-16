@@ -1,0 +1,103 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 1.5em;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+h3,
+h4 {
+  margin: 2vh;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+  margin: 1vh 3vw;
+}
+
+/* Hide h3 and li initially */
+h3,
+h4,
+li {
+  opacity: 0;
+}
+
+/* Animation to sway back and forth */
+@keyframes sway {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(1deg);
+  }
+}
+/* Animation to fade in and move slightly */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  50% {
+    opacity: 0.5;
+    transform: translateY(0);
+  }
+  100% {
+    opacity: 1;
+  }
+}
+/* Add animation with higher delay per speed# class */
+.speed1 {
+  animation-duration: 1s;
+  width: 25vw;
+  animation: fadeIn 1s ease-out 0.1s forwards;
+}
+
+.speed2 {
+  animation-duration: 2s;
+  width: 25vw;
+  animation: fadeIn 1s ease-out 0.1s forwards;
+}
+
+.speed3 {
+  animation-duration: 3s;
+  width: 25vw;
+  animation: fadeIn 1s ease-out 0.1s forwards;
+}
+
+.speed4 {
+  animation-duration: 4s;
+  width: 25vw;
+  animation: fadeIn 1s ease-out 0.1s forwards;
+}
+
+.speed5 {
+  animation-duration: 5s;
+  width: 25vw;
+  animation: fadeIn 1s ease-out 0.1s forwards;
+}
+
+.speed6 {
+  animation-duration: 6s;
+  width: 25vw;
+  animation: fadeIn 1s ease-out 0.1s forwards;
+}
+
+.speed7 {
+  animation-duration: 7s;
+  width: 25vw;
+  animation: fadeIn 1s ease-out 0.1s forwards;
+}
+
+.speed8 {
+  animation-duration: 8s;
+  width: 25vw;
+  animation: fadeIn 1s ease-out 0.1s forwards;
+}
+
+h3,
+h4 {
+  animation: fadeIn 1s ease-out 0.1s forwards, sway 1s ease-in-out alternate-reverse infinite !important;
+}/*# sourceMappingURL=index.css.map */
