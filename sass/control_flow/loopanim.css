@@ -1,0 +1,122 @@
+@keyframes sweep1 {
+  20% {
+    transform: translate(2%, 2.8284271247%) scaleY(1.2);
+  }
+  40% {
+    transform: translate(4%, 8%) scaleY(1.4);
+  }
+  60% {
+    transform: translate(6%, 14.6969384567%) scaleY(1.6);
+  }
+  80% {
+    transform: translate(8%, 22.627416998%) scaleY(1.8);
+  }
+  100% {
+    transform: translate(10%, 31.6227766017%) scaleY(2);
+  }
+}
+@keyframes sweep2 {
+  20% {
+    transform: translate(4%, 8%) scaleY(1.2);
+  }
+  40% {
+    transform: translate(8%, 22.627416998%) scaleY(1.4);
+  }
+  60% {
+    transform: translate(12%, 41.5692193817%) scaleY(1.6);
+  }
+  80% {
+    transform: translate(16%, 64%) scaleY(1.8);
+  }
+  100% {
+    transform: translate(20%, 89.4427191%) scaleY(2);
+  }
+}
+@keyframes sweep3 {
+  20% {
+    transform: translate(6%, 14.6969384567%) scaleY(1.2);
+  }
+  40% {
+    transform: translate(12%, 41.5692193817%) scaleY(1.4);
+  }
+  60% {
+    transform: translate(18%, 76.3675323681%) scaleY(1.6);
+  }
+  80% {
+    transform: translate(24%, 117.5755076536%) scaleY(1.8);
+  }
+  100% {
+    transform: translate(30%, 164.3167672515%) scaleY(2);
+  }
+}
+@keyframes sweep4 {
+  20% {
+    transform: translate(8%, 22.627416998%) scaleY(1.2);
+  }
+  40% {
+    transform: translate(16%, 64%) scaleY(1.4);
+  }
+  60% {
+    transform: translate(24%, 117.5755076536%) scaleY(1.6);
+  }
+  80% {
+    transform: translate(32%, 181.0193359838%) scaleY(1.8);
+  }
+  100% {
+    transform: translate(40%, 252.9822128135%) scaleY(2);
+  }
+}
+@keyframes sweep5 {
+  20% {
+    transform: translate(10%, 31.6227766017%) scaleY(1.2);
+  }
+  40% {
+    transform: translate(20%, 89.4427191%) scaleY(1.4);
+  }
+  60% {
+    transform: translate(30%, 164.3167672515%) scaleY(1.6);
+  }
+  80% {
+    transform: translate(40%, 252.9822128135%) scaleY(1.8);
+  }
+  100% {
+    transform: translate(50%, 353.5533905933%) scaleY(2);
+  }
+}
+.sweep {
+  width: 5%;
+  height: 10%;
+  position: relative;
+  float: left;
+  background-color: teal;
+}
+
+.speed1 {
+  animation: sweep1 0.5s infinite alternate forwards;
+  background-color: rgb(204, 53, 192);
+  animation-timing-function: linear;
+}
+
+.speed2 {
+  animation: sweep2 0.5s infinite alternate forwards;
+  background-color: rgb(254, 95, 94);
+  animation-timing-function: linear;
+}
+
+.speed3 {
+  animation: sweep3 0.5s infinite alternate forwards;
+  background-color: rgb(100, 226, 120);
+  animation-timing-function: linear;
+}
+
+.speed4 {
+  animation: sweep4 0.5s infinite alternate forwards;
+  background-color: rgb(181, 138, 8);
+  animation-timing-function: linear;
+}
+
+.speed5 {
+  animation: sweep5 0.5s infinite alternate forwards;
+  background-color: rgb(217, 167, 49);
+  animation-timing-function: linear;
+}/*# sourceMappingURL=loopanim.css.map */

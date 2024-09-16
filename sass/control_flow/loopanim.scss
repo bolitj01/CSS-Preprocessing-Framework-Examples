@@ -1,0 +1,35 @@
+@use "sass:list";
+@use "sass:map";
+@use "sass:color";
+@use "sass:math";
+
+$speeds: 2, 4, 6, 8, 10;
+
+@each $speed in $speeds {
+    @keyframes sweep#{list.index($speeds, $speed)} {
+        @for $i from 1 through 5 {
+            $movement: $i * $speed;
+            #{$i * 20%} {
+                transform:  translate($movement * 1%, math.pow($movement, 1.5) * 1%)
+                            scaleY(1 + $i * .2);
+            }
+        }
+    }
+}
+
+
+.sweep{
+    width: 5%;
+    height: 10%;
+    position:relative;
+    float:left;
+    background-color: teal;
+}
+
+@for $num from 1 through length($speeds){
+    .speed#{$num}{
+        animation: sweep#{$num} .5s infinite alternate forwards;
+        background-color: rgb(math.random() * 255, math.random() * 255, math.random() * 255);
+        animation-timing-function:linear;
+    }
+}

@@ -1,0 +1,25 @@
+@mixin theme($theme: DarkGray) {
+    background: $theme;
+    border-radius: 10;
+    box-shadow: 0 0 1px rgba($theme, .25);
+    color: #fff;
+    width: 70%;
+    height: 200px;
+  }
+  
+  .info {
+    @include theme;
+  }
+  .alert {
+    @include theme($theme: DarkRed);
+    width: 20%;
+    display: inline;
+    float: right;
+  }
+  .success {
+    @include theme($theme: DarkGreen);
+  }
+
+  .warning {
+    @include theme($theme: Pink);
+  }

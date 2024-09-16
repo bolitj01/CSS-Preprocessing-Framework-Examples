@@ -1,0 +1,14 @@
+@use "sass:math";
+
+$font-stack: Helvetica, sans-serif;
+$primary-color: darkgrey;
+$width: 960px;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+section {
+  width: math.div(600px, $width) * 100%;
+}

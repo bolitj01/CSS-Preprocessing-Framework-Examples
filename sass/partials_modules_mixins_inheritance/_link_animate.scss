@@ -1,0 +1,19 @@
+//Not compiled to CSS, only used in other SCSS files
+@keyframes shimmer {
+    from{
+        font-size: 100%;
+    }
+    to{
+        font-size:90%;
+        color:blue;
+    }
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    animation: shimmer .5s alternate;
+    animation-iteration-count: 2;
+}
