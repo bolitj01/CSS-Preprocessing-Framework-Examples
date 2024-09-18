@@ -1,0 +1,1399 @@
+.div-1 {
+  background-color: rgb(20, 27, 195);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-1:hover {
+  background-color: rgb(160, 143, 84);
+}
+
+.div-2 {
+  background-color: rgb(60, 29, 78);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-2:hover {
+  background-color: rgb(3, 96, 111);
+}
+
+.div-3 {
+  background-color: rgb(170, 185, 107);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-3:hover {
+  background-color: rgb(154, 142, 75);
+}
+
+.div-4 {
+  background-color: rgb(100, 56, 186);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-4:hover {
+  background-color: rgb(210, 238, 114);
+}
+
+.div-5 {
+  background-color: rgb(121, 98, 50);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-5:hover {
+  background-color: rgb(229, 34, 44);
+}
+
+.div-6 {
+  background-color: rgb(40, 57, 128);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-6:hover {
+  background-color: rgb(194, 218, 201);
+}
+
+.div-7 {
+  background-color: rgb(209, 214, 154);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-7:hover {
+  background-color: rgb(42, 133, 103);
+}
+
+.div-8 {
+  background-color: rgb(92, 254, 70);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-8:hover {
+  background-color: rgb(212, 138, 228);
+}
+
+.div-9 {
+  background-color: rgb(7, 5, 60);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-9:hover {
+  background-color: rgb(159, 123, 206);
+}
+
+.div-10 {
+  background-color: rgb(229, 117, 105);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-10:hover {
+  background-color: rgb(168, 210, 138);
+}
+
+.div-11 {
+  background-color: rgb(204, 37, 117);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-11:hover {
+  background-color: rgb(115, 167, 64);
+}
+
+.div-12 {
+  background-color: rgb(54, 189, 238);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-12:hover {
+  background-color: rgb(88, 156, 28);
+}
+
+.div-13 {
+  background-color: rgb(172, 209, 239);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-13:hover {
+  background-color: rgb(71, 45, 27);
+}
+
+.div-14 {
+  background-color: rgb(192, 103, 153);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-14:hover {
+  background-color: rgb(164, 90, 63);
+}
+
+.div-15 {
+  background-color: rgb(207, 138, 121);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-15:hover {
+  background-color: rgb(162, 58, 233);
+}
+
+.div-16 {
+  background-color: rgb(30, 40, 229);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-16:hover {
+  background-color: rgb(176, 181, 6);
+}
+
+.div-17 {
+  background-color: rgb(242, 168, 108);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-17:hover {
+  background-color: rgb(2, 76, 246);
+}
+
+.div-18 {
+  background-color: rgb(82, 158, 168);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-18:hover {
+  background-color: rgb(55, 17, 148);
+}
+
+.div-19 {
+  background-color: rgb(207, 17, 172);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-19:hover {
+  background-color: rgb(45, 175, 26);
+}
+
+.div-20 {
+  background-color: rgb(45, 203, 89);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-20:hover {
+  background-color: rgb(139, 249, 191);
+}
+
+.div-21 {
+  background-color: rgb(56, 177, 214);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-21:hover {
+  background-color: rgb(115, 90, 106);
+}
+
+.div-22 {
+  background-color: rgb(27, 247, 219);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-22:hover {
+  background-color: rgb(138, 118, 184);
+}
+
+.div-23 {
+  background-color: rgb(67, 15, 220);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-23:hover {
+  background-color: rgb(141, 42, 82);
+}
+
+.div-24 {
+  background-color: rgb(145, 162, 18);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-24:hover {
+  background-color: rgb(221, 42, 232);
+}
+
+.div-25 {
+  background-color: rgb(80, 28, 188);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-25:hover {
+  background-color: rgb(82, 227, 117);
+}
+
+.div-26 {
+  background-color: rgb(234, 37, 203);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-26:hover {
+  background-color: rgb(90, 69, 13);
+}
+
+.div-27 {
+  background-color: rgb(246, 141, 86);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-27:hover {
+  background-color: rgb(82, 177, 48);
+}
+
+.div-28 {
+  background-color: rgb(211, 35, 206);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-28:hover {
+  background-color: rgb(63, 140, 138);
+}
+
+.div-29 {
+  background-color: rgb(29, 144, 148);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-29:hover {
+  background-color: rgb(150, 76, 115);
+}
+
+.div-30 {
+  background-color: rgb(54, 58, 115);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-30:hover {
+  background-color: rgb(238, 228, 174);
+}
+
+.div-31 {
+  background-color: rgb(42, 186, 49);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-31:hover {
+  background-color: rgb(90, 67, 166);
+}
+
+.div-32 {
+  background-color: rgb(61, 127, 212);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-32:hover {
+  background-color: rgb(13, 249, 122);
+}
+
+.div-33 {
+  background-color: rgb(88, 147, 31);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-33:hover {
+  background-color: rgb(121, 196, 205);
+}
+
+.div-34 {
+  background-color: rgb(131, 86, 53);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-34:hover {
+  background-color: rgb(176, 182, 147);
+}
+
+.div-35 {
+  background-color: rgb(114, 181, 7);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-35:hover {
+  background-color: rgb(90, 237, 209);
+}
+
+.div-36 {
+  background-color: rgb(143, 130, 63);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-36:hover {
+  background-color: rgb(238, 173, 237);
+}
+
+.div-37 {
+  background-color: rgb(118, 225, 62);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-37:hover {
+  background-color: rgb(51, 47, 50);
+}
+
+.div-38 {
+  background-color: rgb(248, 64, 154);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-38:hover {
+  background-color: rgb(112, 160, 43);
+}
+
+.div-39 {
+  background-color: rgb(159, 36, 194);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-39:hover {
+  background-color: rgb(39, 119, 94);
+}
+
+.div-40 {
+  background-color: rgb(113, 203, 182);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-40:hover {
+  background-color: rgb(159, 167, 169);
+}
+
+.div-41 {
+  background-color: rgb(138, 127, 195);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-41:hover {
+  background-color: rgb(242, 239, 103);
+}
+
+.div-42 {
+  background-color: rgb(125, 76, 162);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-42:hover {
+  background-color: rgb(26, 192, 190);
+}
+
+.div-43 {
+  background-color: rgb(252, 188, 7);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-43:hover {
+  background-color: rgb(225, 207, 124);
+}
+
+.div-44 {
+  background-color: rgb(2, 149, 136);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-44:hover {
+  background-color: rgb(143, 184, 57);
+}
+
+.div-45 {
+  background-color: rgb(12, 175, 177);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-45:hover {
+  background-color: rgb(119, 210, 248);
+}
+
+.div-46 {
+  background-color: rgb(89, 56, 175);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-46:hover {
+  background-color: rgb(244, 20, 121);
+}
+
+.div-47 {
+  background-color: rgb(54, 143, 144);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-47:hover {
+  background-color: rgb(234, 58, 181);
+}
+
+.div-48 {
+  background-color: rgb(1, 245, 179);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-48:hover {
+  background-color: rgb(220, 34, 206);
+}
+
+.div-49 {
+  background-color: rgb(21, 35, 174);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-49:hover {
+  background-color: rgb(45, 39, 233);
+}
+
+.div-50 {
+  background-color: rgb(114, 31, 211);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-50:hover {
+  background-color: rgb(20, 56, 252);
+}
+
+.div-51 {
+  background-color: rgb(158, 7, 52);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-51:hover {
+  background-color: rgb(82, 138, 71);
+}
+
+.div-52 {
+  background-color: rgb(231, 30, 91);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-52:hover {
+  background-color: rgb(217, 111, 224);
+}
+
+.div-53 {
+  background-color: rgb(197, 221, 15);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-53:hover {
+  background-color: rgb(224, 53, 195);
+}
+
+.div-54 {
+  background-color: rgb(112, 208, 212);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-54:hover {
+  background-color: rgb(61, 163, 98);
+}
+
+.div-55 {
+  background-color: rgb(150, 181, 209);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-55:hover {
+  background-color: rgb(188, 169, 123);
+}
+
+.div-56 {
+  background-color: rgb(66, 101, 138);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-56:hover {
+  background-color: rgb(76, 236, 24);
+}
+
+.div-57 {
+  background-color: rgb(199, 8, 14);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-57:hover {
+  background-color: rgb(181, 190, 149);
+}
+
+.div-58 {
+  background-color: rgb(55, 223, 208);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-58:hover {
+  background-color: rgb(145, 229, 219);
+}
+
+.div-59 {
+  background-color: rgb(202, 232, 218);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-59:hover {
+  background-color: rgb(149, 79, 40);
+}
+
+.div-60 {
+  background-color: rgb(147, 226, 64);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-60:hover {
+  background-color: rgb(189, 240, 23);
+}
+
+.div-61 {
+  background-color: rgb(116, 103, 9);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-61:hover {
+  background-color: rgb(139, 78, 221);
+}
+
+.div-62 {
+  background-color: rgb(43, 53, 78);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-62:hover {
+  background-color: rgb(243, 111, 248);
+}
+
+.div-63 {
+  background-color: rgb(112, 231, 111);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-63:hover {
+  background-color: rgb(44, 245, 122);
+}
+
+.div-64 {
+  background-color: rgb(234, 165, 112);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-64:hover {
+  background-color: rgb(158, 98, 218);
+}
+
+.div-65 {
+  background-color: rgb(26, 66, 195);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-65:hover {
+  background-color: rgb(168, 43, 172);
+}
+
+.div-66 {
+  background-color: rgb(3, 194, 62);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-66:hover {
+  background-color: rgb(55, 76, 167);
+}
+
+.div-67 {
+  background-color: rgb(37, 2, 199);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-67:hover {
+  background-color: rgb(58, 40, 115);
+}
+
+.div-68 {
+  background-color: rgb(147, 86, 26);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-68:hover {
+  background-color: rgb(137, 235, 89);
+}
+
+.div-69 {
+  background-color: rgb(168, 207, 176);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-69:hover {
+  background-color: rgb(10, 33, 166);
+}
+
+.div-70 {
+  background-color: rgb(255, 13, 36);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-70:hover {
+  background-color: rgb(144, 102, 187);
+}
+
+.div-71 {
+  background-color: rgb(93, 83, 10);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-71:hover {
+  background-color: rgb(246, 189, 31);
+}
+
+.div-72 {
+  background-color: rgb(110, 121, 149);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-72:hover {
+  background-color: rgb(88, 86, 67);
+}
+
+.div-73 {
+  background-color: rgb(96, 89, 241);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-73:hover {
+  background-color: rgb(85, 64, 80);
+}
+
+.div-74 {
+  background-color: rgb(81, 130, 97);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-74:hover {
+  background-color: rgb(178, 88, 234);
+}
+
+.div-75 {
+  background-color: rgb(116, 12, 67);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-75:hover {
+  background-color: rgb(41, 242, 106);
+}
+
+.div-76 {
+  background-color: rgb(6, 17, 100);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-76:hover {
+  background-color: rgb(40, 48, 97);
+}
+
+.div-77 {
+  background-color: rgb(49, 36, 77);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-77:hover {
+  background-color: rgb(115, 86, 195);
+}
+
+.div-78 {
+  background-color: rgb(129, 46, 155);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-78:hover {
+  background-color: rgb(47, 28, 74);
+}
+
+.div-79 {
+  background-color: rgb(219, 70, 62);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-79:hover {
+  background-color: rgb(165, 211, 165);
+}
+
+.div-80 {
+  background-color: rgb(170, 47, 109);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-80:hover {
+  background-color: rgb(193, 4, 123);
+}
+
+.div-81 {
+  background-color: rgb(47, 132, 110);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-81:hover {
+  background-color: rgb(192, 30, 236);
+}
+
+.div-82 {
+  background-color: rgb(22, 189, 22);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-82:hover {
+  background-color: rgb(18, 158, 192);
+}
+
+.div-83 {
+  background-color: rgb(123, 117, 103);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-83:hover {
+  background-color: rgb(107, 82, 193);
+}
+
+.div-84 {
+  background-color: rgb(143, 180, 117);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-84:hover {
+  background-color: rgb(22, 96, 227);
+}
+
+.div-85 {
+  background-color: rgb(114, 53, 167);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-85:hover {
+  background-color: rgb(228, 107, 58);
+}
+
+.div-86 {
+  background-color: rgb(21, 200, 216);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-86:hover {
+  background-color: rgb(25, 181, 42);
+}
+
+.div-87 {
+  background-color: rgb(68, 248, 73);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-87:hover {
+  background-color: rgb(132, 58, 209);
+}
+
+.div-88 {
+  background-color: rgb(200, 145, 241);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-88:hover {
+  background-color: rgb(153, 204, 107);
+}
+
+.div-89 {
+  background-color: rgb(91, 40, 167);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-89:hover {
+  background-color: rgb(189, 86, 188);
+}
+
+.div-90 {
+  background-color: rgb(19, 142, 114);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-90:hover {
+  background-color: rgb(162, 2, 68);
+}
+
+.div-91 {
+  background-color: rgb(186, 206, 185);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-91:hover {
+  background-color: rgb(227, 36, 54);
+}
+
+.div-92 {
+  background-color: rgb(117, 19, 164);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-92:hover {
+  background-color: rgb(34, 93, 95);
+}
+
+.div-93 {
+  background-color: rgb(88, 30, 233);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-93:hover {
+  background-color: rgb(161, 97, 76);
+}
+
+.div-94 {
+  background-color: rgb(58, 1, 239);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-94:hover {
+  background-color: rgb(156, 125, 91);
+}
+
+.div-95 {
+  background-color: rgb(84, 221, 185);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-95:hover {
+  background-color: rgb(71, 188, 165);
+}
+
+.div-96 {
+  background-color: rgb(211, 10, 148);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-96:hover {
+  background-color: rgb(198, 47, 28);
+}
+
+.div-97 {
+  background-color: rgb(126, 79, 237);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-97:hover {
+  background-color: rgb(196, 137, 192);
+}
+
+.div-98 {
+  background-color: rgb(67, 38, 232);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-98:hover {
+  background-color: rgb(223, 172, 100);
+}
+
+.div-99 {
+  background-color: rgb(35, 118, 255);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-99:hover {
+  background-color: rgb(235, 177, 212);
+}
+
+.div-100 {
+  background-color: rgb(36, 129, 61);
+  margin: auto;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 5px lightblue;
+  text-align: center;
+  transition: background-color 0.25s;
+  width: 40%;
+}
+.div-100:hover {
+  background-color: rgb(90, 58, 94);
+}/*# sourceMappingURL=random_solution.css.map */
