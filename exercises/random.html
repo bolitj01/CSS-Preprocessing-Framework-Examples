@@ -2,24 +2,23 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random Colors</title>
-
+    <title>Random Circles Animation</title>
     <!-- <link rel="stylesheet" href="random.css"> -->
     <link rel="stylesheet" href="random_solution.css">
 
+    <!-- Generate random circle divs -->
     <script>
         function createRandomDivs(){
             for (let i = 1; i <= 100; i++){
-                document.getElementById("random").innerHTML += `<div class="div-${i}">${i}</div>`;
+                document.getElementById("random-circles").innerHTML += `<div class="circle-${i}"></div>`;
             }
         }
     </script>
-
 </head>
-
-<body onload=createRandomDivs()>
-    <div id="random"></div>
+<body onload="createRandomDivs();">
+    <div id="random-circles">
+        <!-- The circles will be generated here -->
+    </div>
 </body>
 </html>

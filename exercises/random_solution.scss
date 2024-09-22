@@ -1,19 +1,51 @@
-@use "sass:list";
+$number-of-circles: 100;
+$max-radius: 400;
+$max-duration: 8;
+$max-delay: 4;
+$colors: (  rgba(255, 105, 180, 0.6), 
+            rgba(105, 180, 255, 0.6), 
+            rgba(145, 246, 247, 0.866),
+            rgba(242, 131, 34, 0.826));
 
-@for $i from 1 through 100 {
-    .div-#{$i}{
-        background-color: rgb(random(255), random(255), random(255));
-        margin: auto;
-        color: white;
-        font-size: 1.5em;
-        text-shadow: 1px 1px 5px lightblue;
-        text-align: center;
-        transition: background-color .25s;
-        width:40%;
 
-        &:hover{
-            background-color: rgb(random(255), random(255), random(255));
+
+@mixin random-position {
+    top: percentage(random());
+    left: percentage(random());
+}
+
+@mixin random-circle($i) {
+    $radius: random($max-radius);
+    width: #{$radius}px;
+    height: #{$radius}px;
+    opacity: 0;
+    background-color: nth($colors, random(length($colors)));
+    animation: expand-fade #{random($max-duration)}s infinite #{random($max-delay)}s alternate ease-in-out;
+    @include random-position;
+}
+
+#random-circles {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+
+    @for $i from 1 through $number-of-circles {
+        .circle-#{$i} {
+            position: absolute;
+            border-radius: 50%;
+            @include random-circle($i);
         }
     }
 }
 
+@keyframes expand-fade {
+    0% {
+        transform: scale(0);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(1.5);
+        opacity: .1;
+    }
+}

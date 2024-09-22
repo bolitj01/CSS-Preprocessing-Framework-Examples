@@ -1,1399 +1,1117 @@
-.div-1 {
-  background-color: rgb(20, 27, 195);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-1:hover {
-  background-color: rgb(160, 143, 84);
-}
-
-.div-2 {
-  background-color: rgb(60, 29, 78);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-2:hover {
-  background-color: rgb(3, 96, 111);
-}
-
-.div-3 {
-  background-color: rgb(170, 185, 107);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-3:hover {
-  background-color: rgb(154, 142, 75);
-}
-
-.div-4 {
-  background-color: rgb(100, 56, 186);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-4:hover {
-  background-color: rgb(210, 238, 114);
-}
-
-.div-5 {
-  background-color: rgb(121, 98, 50);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-5:hover {
-  background-color: rgb(229, 34, 44);
-}
-
-.div-6 {
-  background-color: rgb(40, 57, 128);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-6:hover {
-  background-color: rgb(194, 218, 201);
-}
-
-.div-7 {
-  background-color: rgb(209, 214, 154);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-7:hover {
-  background-color: rgb(42, 133, 103);
-}
-
-.div-8 {
-  background-color: rgb(92, 254, 70);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-8:hover {
-  background-color: rgb(212, 138, 228);
-}
-
-.div-9 {
-  background-color: rgb(7, 5, 60);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-9:hover {
-  background-color: rgb(159, 123, 206);
-}
-
-.div-10 {
-  background-color: rgb(229, 117, 105);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-10:hover {
-  background-color: rgb(168, 210, 138);
-}
-
-.div-11 {
-  background-color: rgb(204, 37, 117);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-11:hover {
-  background-color: rgb(115, 167, 64);
-}
-
-.div-12 {
-  background-color: rgb(54, 189, 238);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-12:hover {
-  background-color: rgb(88, 156, 28);
-}
-
-.div-13 {
-  background-color: rgb(172, 209, 239);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-13:hover {
-  background-color: rgb(71, 45, 27);
-}
-
-.div-14 {
-  background-color: rgb(192, 103, 153);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-14:hover {
-  background-color: rgb(164, 90, 63);
-}
-
-.div-15 {
-  background-color: rgb(207, 138, 121);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-15:hover {
-  background-color: rgb(162, 58, 233);
-}
-
-.div-16 {
-  background-color: rgb(30, 40, 229);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-16:hover {
-  background-color: rgb(176, 181, 6);
-}
-
-.div-17 {
-  background-color: rgb(242, 168, 108);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-17:hover {
-  background-color: rgb(2, 76, 246);
-}
-
-.div-18 {
-  background-color: rgb(82, 158, 168);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-18:hover {
-  background-color: rgb(55, 17, 148);
-}
-
-.div-19 {
-  background-color: rgb(207, 17, 172);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-19:hover {
-  background-color: rgb(45, 175, 26);
-}
-
-.div-20 {
-  background-color: rgb(45, 203, 89);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-20:hover {
-  background-color: rgb(139, 249, 191);
-}
-
-.div-21 {
-  background-color: rgb(56, 177, 214);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-21:hover {
-  background-color: rgb(115, 90, 106);
-}
-
-.div-22 {
-  background-color: rgb(27, 247, 219);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-22:hover {
-  background-color: rgb(138, 118, 184);
-}
-
-.div-23 {
-  background-color: rgb(67, 15, 220);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-23:hover {
-  background-color: rgb(141, 42, 82);
-}
-
-.div-24 {
-  background-color: rgb(145, 162, 18);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-24:hover {
-  background-color: rgb(221, 42, 232);
-}
-
-.div-25 {
-  background-color: rgb(80, 28, 188);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-25:hover {
-  background-color: rgb(82, 227, 117);
-}
-
-.div-26 {
-  background-color: rgb(234, 37, 203);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-26:hover {
-  background-color: rgb(90, 69, 13);
-}
-
-.div-27 {
-  background-color: rgb(246, 141, 86);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-27:hover {
-  background-color: rgb(82, 177, 48);
-}
-
-.div-28 {
-  background-color: rgb(211, 35, 206);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-28:hover {
-  background-color: rgb(63, 140, 138);
-}
-
-.div-29 {
-  background-color: rgb(29, 144, 148);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-29:hover {
-  background-color: rgb(150, 76, 115);
-}
-
-.div-30 {
-  background-color: rgb(54, 58, 115);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-30:hover {
-  background-color: rgb(238, 228, 174);
-}
-
-.div-31 {
-  background-color: rgb(42, 186, 49);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-31:hover {
-  background-color: rgb(90, 67, 166);
-}
-
-.div-32 {
-  background-color: rgb(61, 127, 212);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-32:hover {
-  background-color: rgb(13, 249, 122);
-}
-
-.div-33 {
-  background-color: rgb(88, 147, 31);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-33:hover {
-  background-color: rgb(121, 196, 205);
-}
-
-.div-34 {
-  background-color: rgb(131, 86, 53);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-34:hover {
-  background-color: rgb(176, 182, 147);
-}
-
-.div-35 {
-  background-color: rgb(114, 181, 7);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-35:hover {
-  background-color: rgb(90, 237, 209);
-}
-
-.div-36 {
-  background-color: rgb(143, 130, 63);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-36:hover {
-  background-color: rgb(238, 173, 237);
-}
-
-.div-37 {
-  background-color: rgb(118, 225, 62);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-37:hover {
-  background-color: rgb(51, 47, 50);
-}
-
-.div-38 {
-  background-color: rgb(248, 64, 154);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-38:hover {
-  background-color: rgb(112, 160, 43);
-}
-
-.div-39 {
-  background-color: rgb(159, 36, 194);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-39:hover {
-  background-color: rgb(39, 119, 94);
-}
-
-.div-40 {
-  background-color: rgb(113, 203, 182);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-40:hover {
-  background-color: rgb(159, 167, 169);
-}
-
-.div-41 {
-  background-color: rgb(138, 127, 195);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-41:hover {
-  background-color: rgb(242, 239, 103);
-}
-
-.div-42 {
-  background-color: rgb(125, 76, 162);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-42:hover {
-  background-color: rgb(26, 192, 190);
-}
-
-.div-43 {
-  background-color: rgb(252, 188, 7);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-43:hover {
-  background-color: rgb(225, 207, 124);
-}
-
-.div-44 {
-  background-color: rgb(2, 149, 136);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-44:hover {
-  background-color: rgb(143, 184, 57);
-}
-
-.div-45 {
-  background-color: rgb(12, 175, 177);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-45:hover {
-  background-color: rgb(119, 210, 248);
-}
-
-.div-46 {
-  background-color: rgb(89, 56, 175);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-46:hover {
-  background-color: rgb(244, 20, 121);
-}
-
-.div-47 {
-  background-color: rgb(54, 143, 144);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-47:hover {
-  background-color: rgb(234, 58, 181);
-}
-
-.div-48 {
-  background-color: rgb(1, 245, 179);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-48:hover {
-  background-color: rgb(220, 34, 206);
-}
-
-.div-49 {
-  background-color: rgb(21, 35, 174);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-49:hover {
-  background-color: rgb(45, 39, 233);
-}
-
-.div-50 {
-  background-color: rgb(114, 31, 211);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-50:hover {
-  background-color: rgb(20, 56, 252);
-}
-
-.div-51 {
-  background-color: rgb(158, 7, 52);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-51:hover {
-  background-color: rgb(82, 138, 71);
-}
-
-.div-52 {
-  background-color: rgb(231, 30, 91);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-52:hover {
-  background-color: rgb(217, 111, 224);
-}
-
-.div-53 {
-  background-color: rgb(197, 221, 15);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-53:hover {
-  background-color: rgb(224, 53, 195);
-}
-
-.div-54 {
-  background-color: rgb(112, 208, 212);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-54:hover {
-  background-color: rgb(61, 163, 98);
-}
-
-.div-55 {
-  background-color: rgb(150, 181, 209);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-55:hover {
-  background-color: rgb(188, 169, 123);
-}
-
-.div-56 {
-  background-color: rgb(66, 101, 138);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-56:hover {
-  background-color: rgb(76, 236, 24);
-}
-
-.div-57 {
-  background-color: rgb(199, 8, 14);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-57:hover {
-  background-color: rgb(181, 190, 149);
-}
-
-.div-58 {
-  background-color: rgb(55, 223, 208);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-58:hover {
-  background-color: rgb(145, 229, 219);
-}
-
-.div-59 {
-  background-color: rgb(202, 232, 218);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-59:hover {
-  background-color: rgb(149, 79, 40);
-}
-
-.div-60 {
-  background-color: rgb(147, 226, 64);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-60:hover {
-  background-color: rgb(189, 240, 23);
-}
-
-.div-61 {
-  background-color: rgb(116, 103, 9);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-61:hover {
-  background-color: rgb(139, 78, 221);
-}
-
-.div-62 {
-  background-color: rgb(43, 53, 78);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-62:hover {
-  background-color: rgb(243, 111, 248);
-}
-
-.div-63 {
-  background-color: rgb(112, 231, 111);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-63:hover {
-  background-color: rgb(44, 245, 122);
-}
-
-.div-64 {
-  background-color: rgb(234, 165, 112);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-64:hover {
-  background-color: rgb(158, 98, 218);
-}
-
-.div-65 {
-  background-color: rgb(26, 66, 195);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-65:hover {
-  background-color: rgb(168, 43, 172);
-}
-
-.div-66 {
-  background-color: rgb(3, 194, 62);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-66:hover {
-  background-color: rgb(55, 76, 167);
-}
-
-.div-67 {
-  background-color: rgb(37, 2, 199);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-67:hover {
-  background-color: rgb(58, 40, 115);
-}
-
-.div-68 {
-  background-color: rgb(147, 86, 26);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-68:hover {
-  background-color: rgb(137, 235, 89);
-}
-
-.div-69 {
-  background-color: rgb(168, 207, 176);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-69:hover {
-  background-color: rgb(10, 33, 166);
-}
-
-.div-70 {
-  background-color: rgb(255, 13, 36);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-70:hover {
-  background-color: rgb(144, 102, 187);
-}
-
-.div-71 {
-  background-color: rgb(93, 83, 10);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-71:hover {
-  background-color: rgb(246, 189, 31);
-}
-
-.div-72 {
-  background-color: rgb(110, 121, 149);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-72:hover {
-  background-color: rgb(88, 86, 67);
-}
-
-.div-73 {
-  background-color: rgb(96, 89, 241);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-73:hover {
-  background-color: rgb(85, 64, 80);
-}
-
-.div-74 {
-  background-color: rgb(81, 130, 97);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-74:hover {
-  background-color: rgb(178, 88, 234);
-}
-
-.div-75 {
-  background-color: rgb(116, 12, 67);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-75:hover {
-  background-color: rgb(41, 242, 106);
-}
-
-.div-76 {
-  background-color: rgb(6, 17, 100);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-76:hover {
-  background-color: rgb(40, 48, 97);
-}
-
-.div-77 {
-  background-color: rgb(49, 36, 77);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-77:hover {
-  background-color: rgb(115, 86, 195);
-}
-
-.div-78 {
-  background-color: rgb(129, 46, 155);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-78:hover {
-  background-color: rgb(47, 28, 74);
-}
-
-.div-79 {
-  background-color: rgb(219, 70, 62);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-79:hover {
-  background-color: rgb(165, 211, 165);
-}
-
-.div-80 {
-  background-color: rgb(170, 47, 109);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-80:hover {
-  background-color: rgb(193, 4, 123);
-}
-
-.div-81 {
-  background-color: rgb(47, 132, 110);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-81:hover {
-  background-color: rgb(192, 30, 236);
-}
-
-.div-82 {
-  background-color: rgb(22, 189, 22);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-82:hover {
-  background-color: rgb(18, 158, 192);
-}
-
-.div-83 {
-  background-color: rgb(123, 117, 103);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-83:hover {
-  background-color: rgb(107, 82, 193);
-}
-
-.div-84 {
-  background-color: rgb(143, 180, 117);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-84:hover {
-  background-color: rgb(22, 96, 227);
-}
-
-.div-85 {
-  background-color: rgb(114, 53, 167);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-85:hover {
-  background-color: rgb(228, 107, 58);
-}
-
-.div-86 {
-  background-color: rgb(21, 200, 216);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-86:hover {
-  background-color: rgb(25, 181, 42);
-}
-
-.div-87 {
-  background-color: rgb(68, 248, 73);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-87:hover {
-  background-color: rgb(132, 58, 209);
-}
-
-.div-88 {
-  background-color: rgb(200, 145, 241);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-88:hover {
-  background-color: rgb(153, 204, 107);
-}
-
-.div-89 {
-  background-color: rgb(91, 40, 167);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-89:hover {
-  background-color: rgb(189, 86, 188);
-}
-
-.div-90 {
-  background-color: rgb(19, 142, 114);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-90:hover {
-  background-color: rgb(162, 2, 68);
-}
-
-.div-91 {
-  background-color: rgb(186, 206, 185);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-91:hover {
-  background-color: rgb(227, 36, 54);
-}
-
-.div-92 {
-  background-color: rgb(117, 19, 164);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-92:hover {
-  background-color: rgb(34, 93, 95);
-}
-
-.div-93 {
-  background-color: rgb(88, 30, 233);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-93:hover {
-  background-color: rgb(161, 97, 76);
-}
-
-.div-94 {
-  background-color: rgb(58, 1, 239);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-94:hover {
-  background-color: rgb(156, 125, 91);
-}
-
-.div-95 {
-  background-color: rgb(84, 221, 185);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-95:hover {
-  background-color: rgb(71, 188, 165);
-}
-
-.div-96 {
-  background-color: rgb(211, 10, 148);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-96:hover {
-  background-color: rgb(198, 47, 28);
-}
-
-.div-97 {
-  background-color: rgb(126, 79, 237);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-97:hover {
-  background-color: rgb(196, 137, 192);
-}
-
-.div-98 {
-  background-color: rgb(67, 38, 232);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-98:hover {
-  background-color: rgb(223, 172, 100);
-}
-
-.div-99 {
-  background-color: rgb(35, 118, 255);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-99:hover {
-  background-color: rgb(235, 177, 212);
-}
-
-.div-100 {
-  background-color: rgb(36, 129, 61);
-  margin: auto;
-  color: white;
-  font-size: 1.5em;
-  text-shadow: 1px 1px 5px lightblue;
-  text-align: center;
-  transition: background-color 0.25s;
-  width: 40%;
-}
-.div-100:hover {
-  background-color: rgb(90, 58, 94);
+#random-circles {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+#random-circles .circle-1 {
+  position: absolute;
+  border-radius: 50%;
+  width: 211px;
+  height: 211px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 2s infinite 4s alternate ease-in-out;
+  top: 93.4819347812%;
+  left: 31.852190598%;
+}
+#random-circles .circle-2 {
+  position: absolute;
+  border-radius: 50%;
+  width: 91px;
+  height: 91px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 6s infinite 2s alternate ease-in-out;
+  top: 93.3440573274%;
+  left: 25.81162364%;
+}
+#random-circles .circle-3 {
+  position: absolute;
+  border-radius: 50%;
+  width: 112px;
+  height: 112px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 4s infinite 4s alternate ease-in-out;
+  top: 32.8035711066%;
+  left: 84.9901002667%;
+}
+#random-circles .circle-4 {
+  position: absolute;
+  border-radius: 50%;
+  width: 59px;
+  height: 59px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 8s infinite 4s alternate ease-in-out;
+  top: 7.9512238759%;
+  left: 23.1901617258%;
+}
+#random-circles .circle-5 {
+  position: absolute;
+  border-radius: 50%;
+  width: 71px;
+  height: 71px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 3s infinite 2s alternate ease-in-out;
+  top: 22.9210388396%;
+  left: 0.9291569811%;
+}
+#random-circles .circle-6 {
+  position: absolute;
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 5s infinite 2s alternate ease-in-out;
+  top: 63.9953055659%;
+  left: 52.3007879039%;
+}
+#random-circles .circle-7 {
+  position: absolute;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 5s infinite 3s alternate ease-in-out;
+  top: 16.2389289906%;
+  left: 79.8810279835%;
+}
+#random-circles .circle-8 {
+  position: absolute;
+  border-radius: 50%;
+  width: 78px;
+  height: 78px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 7s infinite 2s alternate ease-in-out;
+  top: 78.1060620978%;
+  left: 16.0261001225%;
+}
+#random-circles .circle-9 {
+  position: absolute;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 5s infinite 4s alternate ease-in-out;
+  top: 28.6286608906%;
+  left: 65.898777067%;
+}
+#random-circles .circle-10 {
+  position: absolute;
+  border-radius: 50%;
+  width: 303px;
+  height: 303px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 8s infinite 3s alternate ease-in-out;
+  top: 76.102384429%;
+  left: 6.6458025094%;
+}
+#random-circles .circle-11 {
+  position: absolute;
+  border-radius: 50%;
+  width: 33px;
+  height: 33px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 7s infinite 3s alternate ease-in-out;
+  top: 43.495860342%;
+  left: 41.4714640809%;
+}
+#random-circles .circle-12 {
+  position: absolute;
+  border-radius: 50%;
+  width: 222px;
+  height: 222px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 7s infinite 3s alternate ease-in-out;
+  top: 70.6120479887%;
+  left: 3.64922446%;
+}
+#random-circles .circle-13 {
+  position: absolute;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 4s infinite 1s alternate ease-in-out;
+  top: 74.7224087804%;
+  left: 53.3938657618%;
+}
+#random-circles .circle-14 {
+  position: absolute;
+  border-radius: 50%;
+  width: 4px;
+  height: 4px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 6s infinite 3s alternate ease-in-out;
+  top: 44.1528120133%;
+  left: 18.4487976059%;
+}
+#random-circles .circle-15 {
+  position: absolute;
+  border-radius: 50%;
+  width: 373px;
+  height: 373px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 4s infinite 3s alternate ease-in-out;
+  top: 40.4745774766%;
+  left: 17.952536414%;
+}
+#random-circles .circle-16 {
+  position: absolute;
+  border-radius: 50%;
+  width: 179px;
+  height: 179px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 7s infinite 2s alternate ease-in-out;
+  top: 89.4709876927%;
+  left: 60.14962462%;
+}
+#random-circles .circle-17 {
+  position: absolute;
+  border-radius: 50%;
+  width: 208px;
+  height: 208px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 4s infinite 3s alternate ease-in-out;
+  top: 38.7138932007%;
+  left: 48.6655071583%;
+}
+#random-circles .circle-18 {
+  position: absolute;
+  border-radius: 50%;
+  width: 398px;
+  height: 398px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 8s infinite 2s alternate ease-in-out;
+  top: 72.9955928664%;
+  left: 98.9195248985%;
+}
+#random-circles .circle-19 {
+  position: absolute;
+  border-radius: 50%;
+  width: 7px;
+  height: 7px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 2s infinite 1s alternate ease-in-out;
+  top: 98.5624657746%;
+  left: 29.7117782323%;
+}
+#random-circles .circle-20 {
+  position: absolute;
+  border-radius: 50%;
+  width: 269px;
+  height: 269px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 7s infinite 2s alternate ease-in-out;
+  top: 22.1123772028%;
+  left: 84.3800989456%;
+}
+#random-circles .circle-21 {
+  position: absolute;
+  border-radius: 50%;
+  width: 265px;
+  height: 265px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 4s infinite 2s alternate ease-in-out;
+  top: 24.2776896273%;
+  left: 20.3307449481%;
+}
+#random-circles .circle-22 {
+  position: absolute;
+  border-radius: 50%;
+  width: 194px;
+  height: 194px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 3s infinite 2s alternate ease-in-out;
+  top: 83.2559322586%;
+  left: 5.9507353321%;
+}
+#random-circles .circle-23 {
+  position: absolute;
+  border-radius: 50%;
+  width: 99px;
+  height: 99px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 1s infinite 3s alternate ease-in-out;
+  top: 88.7486607081%;
+  left: 81.9066478309%;
+}
+#random-circles .circle-24 {
+  position: absolute;
+  border-radius: 50%;
+  width: 336px;
+  height: 336px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 2s infinite 1s alternate ease-in-out;
+  top: 10.0599557124%;
+  left: 11.3142615724%;
+}
+#random-circles .circle-25 {
+  position: absolute;
+  border-radius: 50%;
+  width: 348px;
+  height: 348px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 2s infinite 3s alternate ease-in-out;
+  top: 40.817079814%;
+  left: 5.1661250377%;
+}
+#random-circles .circle-26 {
+  position: absolute;
+  border-radius: 50%;
+  width: 39px;
+  height: 39px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 4s infinite 2s alternate ease-in-out;
+  top: 52.6618312762%;
+  left: 52.28879919%;
+}
+#random-circles .circle-27 {
+  position: absolute;
+  border-radius: 50%;
+  width: 397px;
+  height: 397px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 8s infinite 3s alternate ease-in-out;
+  top: 61.1580706128%;
+  left: 98.9643435827%;
+}
+#random-circles .circle-28 {
+  position: absolute;
+  border-radius: 50%;
+  width: 68px;
+  height: 68px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 4s infinite 3s alternate ease-in-out;
+  top: 49.6913145664%;
+  left: 96.2111127049%;
+}
+#random-circles .circle-29 {
+  position: absolute;
+  border-radius: 50%;
+  width: 176px;
+  height: 176px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 5s infinite 4s alternate ease-in-out;
+  top: 58.3356828267%;
+  left: 42.0838971133%;
+}
+#random-circles .circle-30 {
+  position: absolute;
+  border-radius: 50%;
+  width: 167px;
+  height: 167px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 1s infinite 2s alternate ease-in-out;
+  top: 4.6539841891%;
+  left: 24.2659789725%;
+}
+#random-circles .circle-31 {
+  position: absolute;
+  border-radius: 50%;
+  width: 302px;
+  height: 302px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 3s infinite 1s alternate ease-in-out;
+  top: 68.0935477298%;
+  left: 59.3604572839%;
+}
+#random-circles .circle-32 {
+  position: absolute;
+  border-radius: 50%;
+  width: 21px;
+  height: 21px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 1s infinite 3s alternate ease-in-out;
+  top: 68.8192500573%;
+  left: 39.8770979147%;
+}
+#random-circles .circle-33 {
+  position: absolute;
+  border-radius: 50%;
+  width: 297px;
+  height: 297px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 6s infinite 3s alternate ease-in-out;
+  top: 65.7835796598%;
+  left: 54.3949306163%;
+}
+#random-circles .circle-34 {
+  position: absolute;
+  border-radius: 50%;
+  width: 223px;
+  height: 223px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 3s infinite 2s alternate ease-in-out;
+  top: 5.9204485985%;
+  left: 64.4195768821%;
+}
+#random-circles .circle-35 {
+  position: absolute;
+  border-radius: 50%;
+  width: 88px;
+  height: 88px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 6s infinite 2s alternate ease-in-out;
+  top: 41.8461287489%;
+  left: 80.7023974685%;
+}
+#random-circles .circle-36 {
+  position: absolute;
+  border-radius: 50%;
+  width: 299px;
+  height: 299px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 5s infinite 3s alternate ease-in-out;
+  top: 28.9408142178%;
+  left: 18.1386568419%;
+}
+#random-circles .circle-37 {
+  position: absolute;
+  border-radius: 50%;
+  width: 140px;
+  height: 140px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 7s infinite 2s alternate ease-in-out;
+  top: 4.1645353717%;
+  left: 10.6204905769%;
+}
+#random-circles .circle-38 {
+  position: absolute;
+  border-radius: 50%;
+  width: 278px;
+  height: 278px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 5s infinite 1s alternate ease-in-out;
+  top: 86.1027281407%;
+  left: 31.3681488282%;
+}
+#random-circles .circle-39 {
+  position: absolute;
+  border-radius: 50%;
+  width: 360px;
+  height: 360px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 7s infinite 1s alternate ease-in-out;
+  top: 84.1122032943%;
+  left: 23.1939063605%;
+}
+#random-circles .circle-40 {
+  position: absolute;
+  border-radius: 50%;
+  width: 159px;
+  height: 159px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 8s infinite 2s alternate ease-in-out;
+  top: 12.5294509491%;
+  left: 20.0495164304%;
+}
+#random-circles .circle-41 {
+  position: absolute;
+  border-radius: 50%;
+  width: 364px;
+  height: 364px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 3s infinite 4s alternate ease-in-out;
+  top: 31.8603261276%;
+  left: 63.7249497101%;
+}
+#random-circles .circle-42 {
+  position: absolute;
+  border-radius: 50%;
+  width: 382px;
+  height: 382px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 7s infinite 2s alternate ease-in-out;
+  top: 19.0907328737%;
+  left: 30.48734938%;
+}
+#random-circles .circle-43 {
+  position: absolute;
+  border-radius: 50%;
+  width: 78px;
+  height: 78px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 2s infinite 2s alternate ease-in-out;
+  top: 75.1300776447%;
+  left: 48.9674438183%;
+}
+#random-circles .circle-44 {
+  position: absolute;
+  border-radius: 50%;
+  width: 107px;
+  height: 107px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 7s infinite 2s alternate ease-in-out;
+  top: 66.3595702339%;
+  left: 37.1248442305%;
+}
+#random-circles .circle-45 {
+  position: absolute;
+  border-radius: 50%;
+  width: 333px;
+  height: 333px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 8s infinite 2s alternate ease-in-out;
+  top: 98.4926740873%;
+  left: 88.631407152%;
+}
+#random-circles .circle-46 {
+  position: absolute;
+  border-radius: 50%;
+  width: 298px;
+  height: 298px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 4s infinite 3s alternate ease-in-out;
+  top: 49.3758863178%;
+  left: 30.6555123846%;
+}
+#random-circles .circle-47 {
+  position: absolute;
+  border-radius: 50%;
+  width: 275px;
+  height: 275px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 2s infinite 4s alternate ease-in-out;
+  top: 92.0208945925%;
+  left: 18.8910388494%;
+}
+#random-circles .circle-48 {
+  position: absolute;
+  border-radius: 50%;
+  width: 249px;
+  height: 249px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 6s infinite 2s alternate ease-in-out;
+  top: 71.4084919005%;
+  left: 21.0648532387%;
+}
+#random-circles .circle-49 {
+  position: absolute;
+  border-radius: 50%;
+  width: 330px;
+  height: 330px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 1s infinite 3s alternate ease-in-out;
+  top: 76.0599651862%;
+  left: 52.3552639511%;
+}
+#random-circles .circle-50 {
+  position: absolute;
+  border-radius: 50%;
+  width: 251px;
+  height: 251px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 6s infinite 3s alternate ease-in-out;
+  top: 42.2544635664%;
+  left: 22.5676866996%;
+}
+#random-circles .circle-51 {
+  position: absolute;
+  border-radius: 50%;
+  width: 51px;
+  height: 51px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 1s infinite 1s alternate ease-in-out;
+  top: 53.2549335766%;
+  left: 91.9441033935%;
+}
+#random-circles .circle-52 {
+  position: absolute;
+  border-radius: 50%;
+  width: 309px;
+  height: 309px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 5s infinite 2s alternate ease-in-out;
+  top: 44.0992919648%;
+  left: 34.3658732511%;
+}
+#random-circles .circle-53 {
+  position: absolute;
+  border-radius: 50%;
+  width: 81px;
+  height: 81px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 5s infinite 1s alternate ease-in-out;
+  top: 55.9217470354%;
+  left: 79.5930672951%;
+}
+#random-circles .circle-54 {
+  position: absolute;
+  border-radius: 50%;
+  width: 181px;
+  height: 181px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 4s infinite 4s alternate ease-in-out;
+  top: 71.2264677433%;
+  left: 49.238908576%;
+}
+#random-circles .circle-55 {
+  position: absolute;
+  border-radius: 50%;
+  width: 320px;
+  height: 320px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 6s infinite 4s alternate ease-in-out;
+  top: 40.0576001002%;
+  left: 61.3197352799%;
+}
+#random-circles .circle-56 {
+  position: absolute;
+  border-radius: 50%;
+  width: 222px;
+  height: 222px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 3s infinite 1s alternate ease-in-out;
+  top: 40.6210668165%;
+  left: 33.0011488357%;
+}
+#random-circles .circle-57 {
+  position: absolute;
+  border-radius: 50%;
+  width: 204px;
+  height: 204px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 5s infinite 2s alternate ease-in-out;
+  top: 69.6307577344%;
+  left: 85.1196648726%;
+}
+#random-circles .circle-58 {
+  position: absolute;
+  border-radius: 50%;
+  width: 176px;
+  height: 176px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 8s infinite 3s alternate ease-in-out;
+  top: 54.9659230612%;
+  left: 59.6286385054%;
+}
+#random-circles .circle-59 {
+  position: absolute;
+  border-radius: 50%;
+  width: 68px;
+  height: 68px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 8s infinite 1s alternate ease-in-out;
+  top: 37.8472273108%;
+  left: 6.1978985265%;
+}
+#random-circles .circle-60 {
+  position: absolute;
+  border-radius: 50%;
+  width: 169px;
+  height: 169px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 4s infinite 2s alternate ease-in-out;
+  top: 67.7853313904%;
+  left: 99.5895767226%;
+}
+#random-circles .circle-61 {
+  position: absolute;
+  border-radius: 50%;
+  width: 142px;
+  height: 142px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 1s infinite 4s alternate ease-in-out;
+  top: 85.2149373287%;
+  left: 97.2069499496%;
+}
+#random-circles .circle-62 {
+  position: absolute;
+  border-radius: 50%;
+  width: 396px;
+  height: 396px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 2s infinite 4s alternate ease-in-out;
+  top: 29.3284025976%;
+  left: 15.5259884625%;
+}
+#random-circles .circle-63 {
+  position: absolute;
+  border-radius: 50%;
+  width: 175px;
+  height: 175px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 2s infinite 4s alternate ease-in-out;
+  top: 89.2739440421%;
+  left: 81.7696791843%;
+}
+#random-circles .circle-64 {
+  position: absolute;
+  border-radius: 50%;
+  width: 355px;
+  height: 355px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 3s infinite 2s alternate ease-in-out;
+  top: 0.8566521428%;
+  left: 27.440585652%;
+}
+#random-circles .circle-65 {
+  position: absolute;
+  border-radius: 50%;
+  width: 360px;
+  height: 360px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 1s infinite 3s alternate ease-in-out;
+  top: 17.1334458701%;
+  left: 5.0002286844%;
+}
+#random-circles .circle-66 {
+  position: absolute;
+  border-radius: 50%;
+  width: 52px;
+  height: 52px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 5s infinite 1s alternate ease-in-out;
+  top: 45.212160318%;
+  left: 9.4374826747%;
+}
+#random-circles .circle-67 {
+  position: absolute;
+  border-radius: 50%;
+  width: 14px;
+  height: 14px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 2s infinite 2s alternate ease-in-out;
+  top: 58.2105968847%;
+  left: 59.7989374407%;
+}
+#random-circles .circle-68 {
+  position: absolute;
+  border-radius: 50%;
+  width: 339px;
+  height: 339px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 1s infinite 3s alternate ease-in-out;
+  top: 78.356222296%;
+  left: 78.0320467211%;
+}
+#random-circles .circle-69 {
+  position: absolute;
+  border-radius: 50%;
+  width: 41px;
+  height: 41px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 2s infinite 4s alternate ease-in-out;
+  top: 54.3408332442%;
+  left: 45.5042977804%;
+}
+#random-circles .circle-70 {
+  position: absolute;
+  border-radius: 50%;
+  width: 373px;
+  height: 373px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 8s infinite 3s alternate ease-in-out;
+  top: 86.7099470617%;
+  left: 85.3712357081%;
+}
+#random-circles .circle-71 {
+  position: absolute;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 7s infinite 2s alternate ease-in-out;
+  top: 13.4116971206%;
+  left: 62.3532525662%;
+}
+#random-circles .circle-72 {
+  position: absolute;
+  border-radius: 50%;
+  width: 329px;
+  height: 329px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 3s infinite 1s alternate ease-in-out;
+  top: 71.0690713175%;
+  left: 57.1032417235%;
+}
+#random-circles .circle-73 {
+  position: absolute;
+  border-radius: 50%;
+  width: 355px;
+  height: 355px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 7s infinite 2s alternate ease-in-out;
+  top: 54.9083019162%;
+  left: 90.5149223839%;
+}
+#random-circles .circle-74 {
+  position: absolute;
+  border-radius: 50%;
+  width: 328px;
+  height: 328px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 8s infinite 4s alternate ease-in-out;
+  top: 75.3969764657%;
+  left: 2.0953445932%;
+}
+#random-circles .circle-75 {
+  position: absolute;
+  border-radius: 50%;
+  width: 330px;
+  height: 330px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 4s infinite 3s alternate ease-in-out;
+  top: 78.2372367655%;
+  left: 32.3071021502%;
+}
+#random-circles .circle-76 {
+  position: absolute;
+  border-radius: 50%;
+  width: 320px;
+  height: 320px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 1s infinite 1s alternate ease-in-out;
+  top: 32.5483125074%;
+  left: 78.8634847236%;
+}
+#random-circles .circle-77 {
+  position: absolute;
+  border-radius: 50%;
+  width: 314px;
+  height: 314px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 2s infinite 1s alternate ease-in-out;
+  top: 26.3002206559%;
+  left: 96.3255373807%;
+}
+#random-circles .circle-78 {
+  position: absolute;
+  border-radius: 50%;
+  width: 319px;
+  height: 319px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 7s infinite 2s alternate ease-in-out;
+  top: 13.670058835%;
+  left: 38.8386391665%;
+}
+#random-circles .circle-79 {
+  position: absolute;
+  border-radius: 50%;
+  width: 135px;
+  height: 135px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 1s infinite 1s alternate ease-in-out;
+  top: 72.6460188147%;
+  left: 96.1910873927%;
+}
+#random-circles .circle-80 {
+  position: absolute;
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 3s infinite 2s alternate ease-in-out;
+  top: 98.0289211363%;
+  left: 82.6831868652%;
+}
+#random-circles .circle-81 {
+  position: absolute;
+  border-radius: 50%;
+  width: 383px;
+  height: 383px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 2s infinite 3s alternate ease-in-out;
+  top: 8.5076168437%;
+  left: 79.7429002274%;
+}
+#random-circles .circle-82 {
+  position: absolute;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 8s infinite 1s alternate ease-in-out;
+  top: 86.8438006829%;
+  left: 47.5628080272%;
+}
+#random-circles .circle-83 {
+  position: absolute;
+  border-radius: 50%;
+  width: 396px;
+  height: 396px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 3s infinite 2s alternate ease-in-out;
+  top: 75.0480879625%;
+  left: 93.3737319166%;
+}
+#random-circles .circle-84 {
+  position: absolute;
+  border-radius: 50%;
+  width: 213px;
+  height: 213px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 6s infinite 1s alternate ease-in-out;
+  top: 96.0202511536%;
+  left: 42.5876456162%;
+}
+#random-circles .circle-85 {
+  position: absolute;
+  border-radius: 50%;
+  width: 168px;
+  height: 168px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 6s infinite 3s alternate ease-in-out;
+  top: 4.1956568259%;
+  left: 30.4754710088%;
+}
+#random-circles .circle-86 {
+  position: absolute;
+  border-radius: 50%;
+  width: 4px;
+  height: 4px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 5s infinite 4s alternate ease-in-out;
+  top: 35.5939035007%;
+  left: 97.9946835386%;
+}
+#random-circles .circle-87 {
+  position: absolute;
+  border-radius: 50%;
+  width: 188px;
+  height: 188px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 2s infinite 3s alternate ease-in-out;
+  top: 89.1308600342%;
+  left: 30.5266145092%;
+}
+#random-circles .circle-88 {
+  position: absolute;
+  border-radius: 50%;
+  width: 222px;
+  height: 222px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 6s infinite 1s alternate ease-in-out;
+  top: 27.8248658101%;
+  left: 32.6879269004%;
+}
+#random-circles .circle-89 {
+  position: absolute;
+  border-radius: 50%;
+  width: 169px;
+  height: 169px;
+  opacity: 0;
+  background-color: rgba(105, 180, 255, 0.6);
+  animation: expand-fade 4s infinite 3s alternate ease-in-out;
+  top: 40.0198650306%;
+  left: 55.6115804888%;
+}
+#random-circles .circle-90 {
+  position: absolute;
+  border-radius: 50%;
+  width: 81px;
+  height: 81px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 1s infinite 1s alternate ease-in-out;
+  top: 37.3100805405%;
+  left: 67.7430610986%;
+}
+#random-circles .circle-91 {
+  position: absolute;
+  border-radius: 50%;
+  width: 172px;
+  height: 172px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 4s infinite 3s alternate ease-in-out;
+  top: 6.7449801195%;
+  left: 32.2046616914%;
+}
+#random-circles .circle-92 {
+  position: absolute;
+  border-radius: 50%;
+  width: 361px;
+  height: 361px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 7s infinite 3s alternate ease-in-out;
+  top: 84.2234921423%;
+  left: 23.2008743515%;
+}
+#random-circles .circle-93 {
+  position: absolute;
+  border-radius: 50%;
+  width: 262px;
+  height: 262px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 1s infinite 4s alternate ease-in-out;
+  top: 79.90856181%;
+  left: 86.0377999909%;
+}
+#random-circles .circle-94 {
+  position: absolute;
+  border-radius: 50%;
+  width: 348px;
+  height: 348px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 5s infinite 2s alternate ease-in-out;
+  top: 11.1375433678%;
+  left: 38.4080285639%;
+}
+#random-circles .circle-95 {
+  position: absolute;
+  border-radius: 50%;
+  width: 275px;
+  height: 275px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 1s infinite 1s alternate ease-in-out;
+  top: 51.8021291745%;
+  left: 16.4374193048%;
+}
+#random-circles .circle-96 {
+  position: absolute;
+  border-radius: 50%;
+  width: 193px;
+  height: 193px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 8s infinite 3s alternate ease-in-out;
+  top: 79.2902200231%;
+  left: 17.0593908277%;
+}
+#random-circles .circle-97 {
+  position: absolute;
+  border-radius: 50%;
+  width: 62px;
+  height: 62px;
+  opacity: 0;
+  background-color: rgba(255, 105, 180, 0.6);
+  animation: expand-fade 2s infinite 2s alternate ease-in-out;
+  top: 54.2808517321%;
+  left: 20.7481598141%;
+}
+#random-circles .circle-98 {
+  position: absolute;
+  border-radius: 50%;
+  width: 286px;
+  height: 286px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 5s infinite 2s alternate ease-in-out;
+  top: 3.0206778078%;
+  left: 17.1989375857%;
+}
+#random-circles .circle-99 {
+  position: absolute;
+  border-radius: 50%;
+  width: 225px;
+  height: 225px;
+  opacity: 0;
+  background-color: rgba(242, 131, 34, 0.826);
+  animation: expand-fade 6s infinite 3s alternate ease-in-out;
+  top: 30.1400715%;
+  left: 78.9429670741%;
+}
+#random-circles .circle-100 {
+  position: absolute;
+  border-radius: 50%;
+  width: 201px;
+  height: 201px;
+  opacity: 0;
+  background-color: rgba(145, 246, 247, 0.866);
+  animation: expand-fade 8s infinite 3s alternate ease-in-out;
+  top: 4.5393630986%;
+  left: 27.6948905885%;
+}
+
+@keyframes expand-fade {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.5);
+    opacity: 0.1;
+  }
 }/*# sourceMappingURL=random_solution.css.map */

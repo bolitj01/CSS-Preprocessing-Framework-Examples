@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"random.css"}
+{"version":3,"sources":["random.scss","random.css"],"names":[],"mappings":"AAoBA;EACI,kBAAA;EACA,YAAA;EACA,aAAA;EACA,gBAAA;ACnBJ;;ADwBA;EACI;IACI,mBAAA;IACA,UAAA;ECrBN;EDuBE;IACI,qBAAA;IACA,YAAA;ECrBN;AACF","file":"random.css"}

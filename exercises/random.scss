@@ -1,0 +1,39 @@
+$number-of-circles: 100;
+$max-radius: 400;
+$max-duration: 8;
+$max-delay: 4;
+$colors: (  rgba(255, 105, 180, 0.6), 
+            rgba(105, 180, 255, 0.6), 
+            rgba(145, 246, 247, 0.866),
+            rgba(242, 131, 34, 0.826));
+
+
+
+@mixin random-position {
+    top: percentage(random());
+    left: percentage(random());
+}
+
+@mixin random-circle($i) {
+    // Set size and animation
+}
+
+#random-circles {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+
+    // Style every circle
+}
+
+@keyframes expand-fade {
+    0% {
+        transform: scale(0);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(1.5);
+        opacity: .1;
+    }
+}

@@ -53,12 +53,13 @@ li {
     }
 }
 
+$speeds: 8;
+
 /* Add animation with higher delay per speed# class */
-@for $i from 1 through 8 {
+@for $i from 1 through $speeds {
     .speed#{$i} {
-        animation-duration: $i * 1s;
         width: 25vw;
-        animation: fadeIn 1s ease-out .1s forwards;
+        animation: fadeIn 1s ease-out $i * .1s forwards;
     }
 }
 

@@ -1,1 +1,17 @@
-/*# sourceMappingURL=random.css.map */
+#random-circles {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+@keyframes expand-fade {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.5);
+    opacity: 0.1;
+  }
+}/*# sourceMappingURL=random.css.map */
