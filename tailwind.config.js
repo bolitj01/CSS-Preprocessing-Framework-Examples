@@ -1,8 +1,11 @@
 /** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: ["./**/*.{html,js}"], // Tailwind JIT which removes unused styles
+export default {
+  content: [
+    './tailwind/**/*.{html,js}', // Include all HTML, JS, and CSS files in the tailwind folder
+  ],
   theme: {
     extend: {},
   },
   plugins: [],
 }
+
