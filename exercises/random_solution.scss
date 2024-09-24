@@ -15,13 +15,15 @@ $colors: (  rgba(255, 105, 180, 0.6),
 }
 
 @mixin random-circle($i) {
+    position: absolute;
+    @include random-position;
     $radius: random($max-radius);
     width: #{$radius}px;
     height: #{$radius}px;
     opacity: 0;
     background-color: nth($colors, random(length($colors)));
+    border-radius: 50%;
     animation: expand-fade #{random($max-duration)}s infinite #{random($max-delay)}s alternate ease-in-out;
-    @include random-position;
 }
 
 #random-circles {
@@ -32,8 +34,6 @@ $colors: (  rgba(255, 105, 180, 0.6),
 
     @for $i from 1 through $number-of-circles {
         .circle-#{$i} {
-            position: absolute;
-            border-radius: 50%;
             @include random-circle($i);
         }
     }
