@@ -1,0 +1,36 @@
+@use "sass:string";
+
+$sentence: "This text looks like it is being typed, but it is just a clever use of border and width in a stepped animation!";
+
+body {
+    font-family: monospace;
+    background: #111;
+    color: #0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.typing {
+    width: 0;
+    font-size: 1.3em;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 2px solid #0f0; /* cursor effect */
+    animation: typing 8s steps(#{string.length($sentence)}, end) forwards,
+                blink 0.7s 8s step-end infinite;
+
+    &::after {
+        content: $sentence;
+    }
+}
+
+@keyframes typing {
+    from { width: 0 }
+    to { width: #{string.length($sentence)}ch } /* matches text length */
+}
+
+@keyframes blink {
+    50% { border-color: transparent }
+}
